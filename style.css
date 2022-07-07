@@ -1,0 +1,46 @@
+/* ################ Index CSS ################  */
+
+* {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3a71d6;
+    background-color: #e6e9ee;
+}
+
+.main-heading {
+    font-size: 35px;
+    text-align: center;
+}
+
+.options {
+    text-align: center;
+    list-style: none;
+}
+
+.recipes {
+    list-style: none;
+}
+
+.recipes a, li {
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: 5px;
+    transition: 300ms;
+}
+
+.recipes a:hover {
+    color: rgb(198, 220, 223)
+}
+
+#quote {
+    font-size:large;
+    font-style: italic;
+    text-align: center;
+    border-top: 2px solid #588cec;
+    padding-top: 5px;
+}
+
+
+/* ################ Recipes CSS ################  */
+
+
+

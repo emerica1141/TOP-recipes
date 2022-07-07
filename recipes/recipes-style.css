@@ -1,0 +1,63 @@
+* {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3a71d6;
+    background-color: #e6e9ee;
+    margin-left:10px;
+}
+
+.header h1 {
+    font-size: 40px;
+    font-style: italic;
+    padding: 10px;
+}
+
+.header img {
+    padding-bottom: 10px;
+}
+
+div.description h2 {
+    font-size:large;
+    font-style: italic;
+    text-align: center;
+    border-top: 1px solid #588cec;
+    padding-top: 10px;
+}
+
+div.incredients h2 {
+    font-size:large;
+    font-style: italic;
+    text-align: center;
+    border-top: 1px solid #588cec;
+    padding-top: 10px;
+}
+
+div.steps h2 {
+    font-size:large;
+    font-style: italic;
+    text-align: center;
+    border-top: 1px solid #588cec;
+    padding-top: 10px;
+}
+
+.header {
+    text-align: center;
+}
+
+.return {
+    margin-top:25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#return-link {
+    text-decoration: none;
+    font-weight: bold;
+    border:1px solid #3a71d6;
+    border-radius: 5px;
+    padding:5px;
+    transition: 300ms;
+}
+
+#return-link:hover {
+    background-color:rgb(198, 220, 223);
+}
